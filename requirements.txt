@@ -3,6 +3,7 @@ scikit-learn
 seaborn
 matplotlib
 numpy
+jupyter
 tensorflow
 keras
 torch
