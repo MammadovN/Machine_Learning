@@ -17,6 +17,6 @@ This project applies **linear regression** to predict housing prices using the *
 2. **Install required libraries**:
   ```bash
   pip install -r requirements.txt
-3. **Run the Python script**: The model is implemented in housing_price_prediction.py. You can run the script like so:
+3. **Run the Python script**:
   ```bash
   python housing_price_prediction.py
