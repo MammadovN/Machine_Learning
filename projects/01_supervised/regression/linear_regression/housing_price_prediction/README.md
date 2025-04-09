@@ -21,5 +21,4 @@ This project applies **linear regression** to predict housing prices using the *
 3. **Run the Python script**:
    ```bash
    jupyter notebook housing_price_prediction.ipynb 
-Or open it directly in Google Colab: Open in Colab
 
