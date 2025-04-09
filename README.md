@@ -73,7 +73,8 @@ To run the code in this repository, please follow these steps:
    cd machine-learning-portfolio
 
 2. Install the required libraries:
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 3. Run the notebooks or scripts for each project.
 
 Contact
