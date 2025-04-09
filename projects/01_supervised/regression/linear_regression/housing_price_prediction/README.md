@@ -5,6 +5,7 @@ This project applies **linear regression** to predict housing prices using the *
 
 ## Technologies Used:
 - **Python**
+- **Google Colab**: An interactive environment used for coding and running Jupyter notebooks.
 - **Scikit-learn** for model building
 - **Pandas** for data manipulation
 - **Matplotlib** for visualization
@@ -19,4 +20,6 @@ This project applies **linear regression** to predict housing prices using the *
    pip install -r requirements.txt
 3. **Run the Python script**:
    ```bash
-   python housing_price_prediction.py
+   jupyter notebook housing_price_prediction.ipynb 
+   Or open it directly in Google Colab: Open in Colab
+
