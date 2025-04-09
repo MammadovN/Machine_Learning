@@ -80,6 +80,6 @@ To run the code in this repository, please follow these steps:
 ## Contact
 If you have any questions or would like to collaborate on a project, feel free to contact me!
 
-# Email: **nadir.memmedov680@gmail.com**
+### Email: **nadir.memmedov680@gmail.com**
 
-# LinkedIn: **www.linkedin.com/in/nadir-mammadov-6b3729219**
+### LinkedIn: **www.linkedin.com/in/nadir-mammadov-6b3729219**
