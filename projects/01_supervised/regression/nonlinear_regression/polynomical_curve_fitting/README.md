@@ -14,17 +14,14 @@ In this project:
 - **Matplotlib**: Used for data visualization and plotting the fitted curve.
 - **Scikit-learn**: Used for implementing **Random Forest Regressor** and **PolynomialFeatures** for feature transformation.
 
-## Steps to Run the Project:
+## How to Run the Project:
 
-### Step 1: Clone the Repository
-**Clone the repository to your local machine using the following command**:
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-
-### Step 2: Install the Required Libraries
-    ```bash
-    pip install -r requirements.txt
-
-### Step 3: Run the Python Script
-    ```bash
-    jupyter polynomial_curve_fitting.ipynb
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+2. **Install required libraries**:
+   ```bash
+   pip install -r requirements.txt
+3. **Run the Python script**:
+   ```bash
+   jupyter notebook polynomial_curve_fitting.ipynb 
