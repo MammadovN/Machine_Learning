@@ -94,9 +94,8 @@ A comparison of all models' performance is provided, including their accuracy, p
 
 ## Files
 
-- **fashion_mnist_model_comparison.ipynb**: The Jupyter notebook containing the full analysis, model training, and evaluation code.
+- **Fashion0-MNIST.ipynb**: The Jupyter notebook containing the full analysis, model training, and evaluation code.
 - **fashion_mnist_results.csv**: A CSV file containing the comparison of model performance (accuracy, precision, recall, F1-score, and training time).
-- **knn_fashion_mnist.joblib**: The saved **KNN** model.
 - **decision_tree_fashion_mnist.joblib**: The saved **Decision Tree** model.
 - **random_forest_fashion_mnist.joblib**: The saved **Random Forest** model.
 - **gradient_boosting_fashion_mnist.joblib**: The saved **Gradient Boosting** model.
