@@ -17,7 +17,7 @@ This repository contains my personal Machine Learning projects that I have worke
 
 Here are the main tools and technologies that I used throughout my projects:
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python
 - **Libraries & Frameworks**: 
     - Scikit-learn
     - Pandas
