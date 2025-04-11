@@ -34,7 +34,9 @@ Here are the main tools and technologies that I used throughout my projects:
 ### Supervised Learning
 - **[Polynomical Curve Fitting](projects/01_supervised/regression/nonlinear_regression/polynomical_curve_fitting/README.md)**:A polynomial regression model is fitted using Random Forest after transforming the input features into polynomial terms for non-linear curve fitting.
 - **[House Price Prediction](projects/01_supervised/regression/linear_regression/housing_price_prediction/README.md)**: Predicting house prices using linear regression.
-
+- **[Customer Churn Prediction](projects/01_supervised/classification/customer_churn_prediction/README.md)**:Predicting customer churn for a telecommunications company using various machine learning models.
+- **[Text Classification Model for News Categories](projects/01_supervised/classification/text_classification/README.md)**:Building a text classification model to categorize news articles into predefined categories using machine learning and NLP techniques.
+- **[Fashion MNIST Model Comparison](projects/01_supervised/classification/image_classification/README.md)**:Comparing different machine learning models on the Fashion MNIST dataset, including KNN, Decision Tree, Random Forest, Gradient Boosting, LightGBM, and Artificial Neural Networks (ANN).
 ### Unsupervised Learning
 - **[Customer Segmentation - KMeans](projects/02_unsupervised/customer-segmentation-kmeans/README.md)**: Using KMeans to cluster customers based on their purchasing behavior.
 - **[Anomaly Detection](projects/02_unsupervised/anomaly-detection-isolationforest/README.md)**: Anomaly detection with Isolation Forest algorithm.
