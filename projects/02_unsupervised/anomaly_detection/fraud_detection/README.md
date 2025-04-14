@@ -1,7 +1,6 @@
+# Anomaly Detection with Isolation Forest, LOF, and One-Class SVM
 
-# Customer Segmentation using Anomaly Detection Algorithms
-
-This project focuses on detecting anomalies in customer data using multiple anomaly detection algorithms. The goal is to segment customers into normal and anomalous groups, which can help businesses identify outliers or unusual behaviors in their customer base.
+This project focuses on detecting anomalies in data using multiple anomaly detection algorithms. The goal is to identify outliers or unusual behaviors in the dataset using three popular techniques: **Isolation Forest**, **Local Outlier Factor (LOF)**, and **One-Class SVM**.
 
 ## Technologies Used
 
@@ -11,45 +10,44 @@ This project focuses on detecting anomalies in customer data using multiple anom
 - **NumPy**: For numerical operations and transformations.
 - **Matplotlib**: For creating visualizations of the data.
 - **Seaborn**: For creating enhanced visualizations.
-- **Scikit-learn**: For machine learning model building, including anomaly detection algorithms like Isolation Forest, Local Outlier Factor, and One-Class SVM.
-- **Jupyter Notebook**: An interactive environment for running Python code and data analysis.
+- **Scikit-learn**: For machine learning model building, including anomaly detection algorithms (Isolation Forest, LOF, One-Class SVM).
 
 ## How to Run the Project
 
 ### 1. Clone the Repository
 Clone the repository using the following command:
     ```bash
-    git clone https://github.com/your-username/customer-segmentation-anomaly-detection.git
-    cd customer-segmentation-anomaly-detection
-    ```
+    git clone https://github.com/your-username/anomaly-detection.git
+    cd anomaly-detection
+ 
 
 ### 2. Install Required Libraries
 Install all the required Python libraries using:
     ```bash
     pip install -r requirements.txt
-    ```
+  
 
 ### 3. Run the Jupyter Notebook
 To start the project and run the code, launch Jupyter Notebook:
     ```bash
     jupyter notebook anomaly_detection.ipynb
-    ```
+
 
 ## Project Description
 
 ### Data Preprocessing:
-- **Loading Data**: The dataset is generated with synthetic data, containing features such as `Age`, `Annual Income`, and `Spending Score`. Some data points are marked as anomalies (outliers).
-- **Feature Transformation**: The features are selected, and scaling is applied using **StandardScaler** to standardize the data for anomaly detection models.
+- **Loading Data**: A synthetic dataset is generated with features such as `Age`, `Annual Income`, and `Spending Score`. Some data points are intentionally introduced as anomalies (outliers).
+- **Feature Transformation**: The features are selected and scaled using **StandardScaler** to standardize the data for anomaly detection models.
 
 ### Anomaly Detection Algorithms:
-This project applies multiple anomaly detection algorithms to detect anomalies (outliers) in the data:
-- **Isolation Forest**: A tree-based anomaly detection algorithm that isolates anomalies instead of profiling normal data points.
-- **Local Outlier Factor (LOF)**: A density-based method that evaluates the local density deviation of data points with respect to their neighbors.
-- **One-Class SVM**: A type of Support Vector Machine that learns the boundary of the normal data and detects outliers as anomalies.
+This project applies multiple anomaly detection algorithms to identify anomalies in the data:
+- **Isolation Forest**: A tree-based anomaly detection method that isolates anomalies instead of profiling normal data points.
+- **Local Outlier Factor (LOF)**: A density-based anomaly detection algorithm that evaluates the local density of data points compared to their neighbors.
+- **One-Class SVM**: A support vector machine method that learns the boundary of normal data and identifies outliers as anomalies.
 
 ### Steps for Analysis:
-1. **Data Loading**: The synthetic dataset is generated using **NumPy**, with normal data and anomalies.
-2. **Preprocessing**: The data is preprocessed by separating the features and labels and then scaling the features.
-3. **Anomaly Detection**: The anomaly detection algorithms (**Isolation Forest**, **Local Outlier Factor**, and **One-Class SVM**) are applied to the preprocessed data.
-4. **Evaluation**: The models are evaluated using various metrics like **Silhouette Score** and **Calinski-Harabasz Index** to assess clustering quality.
+1. **Data Loading**: The synthetic dataset is generated using **NumPy**, consisting of normal data and anomalies.
+2. **Data Preprocessing**: The data is preprocessed by separating the features and labels, followed by scaling the features using **StandardScaler**.
+3. **Anomaly Detection**: The anomaly detection algorithms (**Isolation Forest**, **LOF**, and **One-Class SVM**) are applied to the data.
+4. **Model Evaluation**: The performance of the models is evaluated using metrics like **Silhouette Score** and **Calinski-Harabasz Index**.
 5. **Visualization**: The results are visualized using **PCA** for dimensionality reduction and **boxplots** to display feature distributions for normal and anomalous data.
