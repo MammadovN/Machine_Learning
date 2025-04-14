@@ -15,17 +15,17 @@ This project focuses on building a text classification model to categorize news 
 ## How to Run the Project
 
 ### 1. Clone the Repository
- Clone the repository using the following command:
+**Clone the repository using the following command**:
     ```bash
     git clone https://github.com/your-username/your-repository-name.git
 
 ### 2. Install Required Libraries
- Install all the required Python libraries using:
+**Install all the required Python libraries using**:
     ```bash
     pip install -r requirements.txt
 
 ### 3. Run the Jupyter Notebook
-  Open the project’s Jupyter notebook and run the analysis:
+ **Open the project’s Jupyter notebook and run the analysis**:
     ```bash
     jupyter notebook text_classification.ipynb
 
