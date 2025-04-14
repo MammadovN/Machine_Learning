@@ -13,17 +13,14 @@ This project focuses on using **Principal Component Analysis (PCA)** and **t-Dis
 
 ## How to Run the Project
 
-### 1. Clone the Repository
-**Clone the repository using the following command**:
+1. **Clone the repository**:
     ```bash
     git clone https://github.com/your-username/pca-tsne-visualization.git
     cd pca-tsne-visualization
-### 2. Install Required Libraries
-**Install all the required Python libraries using**:
+2. **Install Required Libraries**:
     ```bash
     pip install -r requirements.txt
-### 3. Run the Jupyter Notebook
-**To start the project and run the code, launch Jupyter Notebook**:
+3. **Run the Jupyter Notebook**:
     ```bash
     jupyter notebook pca_tsne_visualization.ipynb
 
