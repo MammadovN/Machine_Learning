@@ -16,16 +16,16 @@ This project involves building a machine learning model to predict whether a per
 ## How to Run the Project
 
 ### 1. Clone the Repository
-Clone the repository using the following command:
+**Clone the repository using the following command**:
     ```bash
     git clone https://github.com/your-username/german-credit-risk-classification.git
     cd german-credit-risk-classification
 ### 2. Install Required Libraries
-Install all the required Python libraries using:
+**Install all the required Python libraries using**:
     ```bash
     pip install -r requirements.txt
 ### 3. Run the Jupyter Notebook
-To start the project and run the code, launch Jupyter Notebook:
+**To start the project and run the code, launch Jupyter Notebook**:
     ```bash
     jupyter notebook german_credit_risk_classification.ipynb
 ## Project Description
