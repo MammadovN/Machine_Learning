@@ -32,6 +32,7 @@ Here are the main tools and technologies that I used throughout my projects:
 ## Projects
 
 ### Supervised Learning
+- **[Credit Card Fraud Detection](projects/01_supervised/anomaly_detection/fraud_detection/README.md)**:Fraudulent credit card transactions based on features such as transaction time, amount, and anonymized user data. Key considerations include handling class imbalance with **SMOTE**, applying log transformation and scaling to features like `Amount`, and using models such as **Logistic Regression**, **Random Forest**, and **XGBoost**, which are evaluated based on metrics like **ROC-AUC** and **PR-AUC** due to the imbalanced dataset.
 - **[Polynomical Curve Fitting](projects/01_supervised/regression/nonlinear_regression/polynomical_curve_fitting/README.md)**: A polynomial regression model is fitted using Random Forest after transforming the input features into polynomial terms for non-linear curve fitting.
 - **[House Price Prediction](projects/01_supervised/regression/linear_regression/housing_price_prediction/README.md)**: Predicting house prices using linear regression.
 - **[German Credit Risk Classification](projects/01_supervised/classification/credit_risk_classification/README.md)**: Predicting customer churn for a telecommunications company using various machine learning models.
@@ -39,8 +40,9 @@ Here are the main tools and technologies that I used throughout my projects:
 - **[Text Classification Model for News Categories](projects/01_supervised/classification/text_classification/README.md)**: Building a text classification model to categorize news articles into predefined categories using machine learning and NLP techniques.
 - **[Fashion MNIST Model Comparison](projects/01_supervised/classification/image_classification/README.md)**: Comparing different machine learning models on the Fashion MNIST dataset, including KNN, Decision Tree, Random Forest, Gradient Boosting, LightGBM, and Artificial Neural Networks (ANN).
 ### Unsupervised Learning
-- **[Customer Segmentation - KMeans](projects/02_unsupervised/customer-segmentation-kmeans/README.md)**: Using KMeans to cluster customers based on their purchasing behavior.
-- **[Anomaly Detection](projects/02_unsupervised/anomaly-detection-isolationforest/README.md)**: Anomaly detection with Isolation Forest algorithm.
+- **[Anomaly Detection](projects/02_unsupervised/anomaly_detection/fraud_detection/README.md)**: Detecting anomalies in data using multiple anomaly detection algorithms. The goal is to identify outliers or unusual behaviors in the dataset using three popular techniques: **Isolation Forest**, **Local Outlier Factor (LOF)**, and **One-Class SVM**.
+- **[Customer Segmentation Clustering](projects/02_unsupervised/clustering/customer_segmentation/README.md)**: Using **K-Means**, **Hierarchical Clustering**, and **DBSCAN** algorithms to segment customers based on their demographic and spending behavior, helping businesses develop targeted marketing strategies and personalized offers.
+- **[PCA & t-SNE Visualization](projects/02_unsupervised/dimensionality_reduction/pca_tsne_visualization/README.md)**: Using **Principal Component Analysis (PCA)** and **t-Distributed Stochastic Neighbor Embedding (t-SNE)** to reduce the dimensionality of the **Iris dataset** and visualize the results in 2D.
 
 ### Deep Learning
 - **[MNIST Digit Recognition - CNN](projects/04_deep-learning/mnist-digit-recognition-cnn/README.md)**: Image classification using Convolutional Neural Networks (CNN).
