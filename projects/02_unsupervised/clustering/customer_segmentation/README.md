@@ -19,19 +19,19 @@ Clone the repository using the following command:
     ```bash
     git clone https://github.com/your-username/customer-segmentation.git
     cd customer-segmentation
-    ```
+
 
 ### 2. Install Required Libraries
 Install all the required Python libraries using:
     ```bash
     pip install -r requirements.txt
-    ```
+
 
 ### 3. Run the Jupyter Notebook
 To start the project and run the code, launch Jupyter Notebook:
     ```bash
     jupyter notebook customer_segmentation.ipynb
-    ```
+
 
 ## Project Description
 
