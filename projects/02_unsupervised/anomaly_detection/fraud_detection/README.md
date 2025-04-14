@@ -14,19 +14,19 @@ This project focuses on detecting anomalies in data using multiple anomaly detec
 
 ## How to Run the Project
 
-### 1. Clone the Repository
+1. **Clone the Repository**:
 Clone the repository using the following command:
     ```bash
     git clone https://github.com/your-username/anomaly-detection.git
     cd anomaly-detection
  
-### 2. Install Required Libraries
+2. **Install Required Libraries**:
 Install all the required Python libraries using:
     ```bash
     pip install -r requirements.txt
   
 
-### 3. Run the Jupyter Notebook
+3. **Run the Jupyter Notebook**:
 To start the project and run the code, launch Jupyter Notebook:
     ```bash
     jupyter notebook anomaly_detection.ipynb
