@@ -33,16 +33,16 @@ The dataset is loaded from `tensorflow.keras.datasets.fashion_mnist`.
 ## How to Run the Project
 
 ### 1. Clone the Repository
-**Clone the repository using the following command**:
+1. **Clone the repository using the following command**:
     ```bash
     git clone https://github.com/your-username/your-repository-name.git
 
 ### 2. Install Required Libraries
-**Install all the required Python libraries using**:
+2. **Install all the required Python libraries using**:
     ```bash
     pip install -r requirements.txt
 ### 3. Run the Jupyter Notebook
-**Open the project’s Jupyter notebook and run the analysis**:
+3. **Open the project’s Jupyter notebook and run the analysis**:
     ```bash
     jupyter notebook fashion_mnist_model_comparison.ipynb
 ## Project Description
