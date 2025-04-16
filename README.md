@@ -45,7 +45,7 @@ Here are the main tools and technologies that I used throughout my projects:
 - **[PCA & t-SNE Visualization](projects/02_unsupervised/dimensionality_reduction/pca_tsne_visualization/README.md)**: Using **Principal Component Analysis (PCA)** and **t-Distributed Stochastic Neighbor Embedding (t-SNE)** to reduce the dimensionality of the **Iris dataset** and visualize the results in 2D.
 
 ### Deep Learning
-- **[MNIST Digit Recognition - CNN](projects/04_deep-learning/mnist-digit-recognition-cnn/README.md)**: Image classification using Convolutional Neural Networks (CNN).
+- **[Cifar10 İmage Classifier_ - CNN](projects/03_deep_learning/convolutional_neural_networks/README.md)**: Image classification using Convolutional Neural Networks (CNN).
 - **[Cats vs Dogs - CNN](projects/04_deep-learning/cats-vs-dogs-classifier/README.md)**: Image classification of cats vs dogs using deep learning.
 
 ### NLP
