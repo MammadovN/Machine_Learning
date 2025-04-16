@@ -64,3 +64,13 @@ Since the target labels are not zero-based, they are encoded using `LabelEncoder
 ### 6. Visualization
 - Line plots of training loss and test accuracy
 - Heatmap of the confusion matrix to evaluate the prediction quality
+
+## 🧠 Model Architecture
+
+The FNN model is composed of the following layers:
+
+```text
+Input: 11 features
+→ Fully Connected (128) + ReLU + Dropout
+→ Fully Connected (64) + ReLU + Dropout
+→ Output Layer (6 classes)
