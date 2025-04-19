@@ -56,7 +56,10 @@ We use the **Fashion-MNIST** dataset, which contains grayscale images of fashion
 - Results show that the model successfully removes noise and reconstructs the original fashion items.
 
 ---
+
 ## 🧠 Model Architecture
+
+```
 Input: 28x28x1
 → Flatten
 → Dense (128, ReLU)
@@ -66,3 +69,4 @@ Input: 28x28x1
 → Dense (128, ReLU)
 → Dense (784, Sigmoid)
 → Reshape (28x28x1)
+```
