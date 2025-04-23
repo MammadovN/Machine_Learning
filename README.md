@@ -47,8 +47,10 @@ Here are the main tools and technologies that I used throughout my projects:
 ### Deep Learning
 - **[Wine Quality Classifier - FNN](projects/03_deep_learning/feedforward_neural_networks/README.md)**: Wine Quality classification using Feedforward Neural Networks (FNN).
 - **[Cifar10 Image Classifier - CNN](projects/03_deep_learning/convolutional_neural_networks/README.md)**: Image classification using Convolutional Neural Networks (CNN).
-
-
+- **[Protein Function Classification - RNN(LSTM)](projects/03_deep_learning/recurrent_neural_networks/README.md)**: Predict protein functions from amino acid sequences using a bidirectional LSTM neural network.
+- **[Anomaly Detection in ECG Signals - Autoencoder](projects/03_deep_learning/autoencoders/autoencoder_anomaly_detection/README.md)**: Use a deep TensorFlow/Keras autoencoder trained on normal ECG heartbeats to detect abnormal signals by flagging high reconstruction errors.
+- **[Fashion-MNIST - Denoising Autoencoder](projects/03_deep_learning/autoencoders/autoencoder_denoising/README.md)**: Train a symmetric TensorFlow/Keras autoencoder to remove Gaussian noise from Fashion-MNIST images, reconstructing clean versions of fashion items.
+- 
 ### NLP
 - **[Chatbot - SEQ2SEQ](projects/04_natural_language_processing/chatbot/README.md)**: Chatbot development using Seq2Seq for context-aware responses.
 - **[Sentiment Analysis - BERT](projects/04_natural_language_processing/sentiment-analysis/README.md)**: Advanced sentiment analysis using BERT.
