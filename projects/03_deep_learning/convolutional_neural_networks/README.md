@@ -20,7 +20,7 @@ This project demonstrates how to build and train a **Convolutional Neural Networ
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MammadovN/cnn-image-classifier.git
+   git clone https://github.com/your-username/cnn-image-classifier.git
    cd cnn-image-classifier
 2. **Install Required Libraries**:
    ```bash
