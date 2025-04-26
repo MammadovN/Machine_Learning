@@ -30,7 +30,7 @@ The example workflow below uses the openly available **Sentiment140** dataset, f
    pip install -r requirements.txt
 3. **Run the training script**
    ```bash
-   jupyter main.ipynb
+   jupyter sentiment_analysis_rnn.ipynb
 
 ## 📂 Project Description  
 
