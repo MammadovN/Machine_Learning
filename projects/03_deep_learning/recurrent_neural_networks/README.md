@@ -26,7 +26,7 @@ This project applies a **Bidirectional LSTM Neural Network** built with PyTorch 
     pip install -r requirements.txt
 3. **Run the Main Script**:
    ```bash
-   jupyter main.ipynb
+   jupyter BIO_RNN.ipynb
 
 ---
 
