@@ -19,7 +19,7 @@ This project applies a **Bidirectional LSTM Neural Network** built with PyTorch 
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/MammadovN/ProtFuncPredictor.git
+   git clone https://github.com/your-username/ProtFuncPredictor.git
    cd ProtFuncPredictor
 2. **Install Dependencies**:
    ```bash
