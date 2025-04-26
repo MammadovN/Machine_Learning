@@ -26,10 +26,8 @@ This project implements Neural Style Transfer in Google Colab using a pre-traine
    ```bash
    pip install torch torchvision pillow matplotlib tqdm
 3. **Run the Notebook / Script**
-    Execute all cells or run python neural_style_transfer.py.
-    When prompted, upload one content image and one style image.
-    Adjust num_steps, content_weight, style_weight as desired.
-    The final stylised image is saved locally and auto-downloaded.
+    jupyter Style_Transfer.ipynb
+    
 
 ## 📂 Project Description  
 The algorithm combines the **high-level content representation** of one image with the **low-level texture representation** of another.  
