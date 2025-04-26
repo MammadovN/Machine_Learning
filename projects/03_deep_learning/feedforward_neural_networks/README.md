@@ -19,7 +19,7 @@ This project applies a **Feedforward Neural Network (FNN)** built with PyTorch t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MammadovN/wine-quality-classification.git
+   git clone https://github.com/your-username/wine-quality-classification.git
    cd wine-quality-classification
 2. **Install Required Libraries**:
    ```bash
