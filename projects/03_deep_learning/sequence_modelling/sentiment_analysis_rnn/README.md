@@ -23,7 +23,7 @@ The example workflow below uses the openly available **Sentiment140** dataset, f
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/SentimentRNN.git
+   git clone https://github.com/your-username/sentiment_analysis_rnn.git
    cd SentimentRNN
 2. **Install dependencies**
    ```bash
