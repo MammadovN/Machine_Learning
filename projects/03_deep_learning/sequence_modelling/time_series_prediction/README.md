@@ -27,7 +27,7 @@ This project trains an **LSTM-based RNN** to forecast future **daily minimum tem
    pip install -r requirements.txt
 3. **Run the training notebook/script**
    ```bash
-   jupyter notebook temperature_forecasting.ipynb
+   jupyter notebook temp_forecast.ipynb
 
 ---
 
