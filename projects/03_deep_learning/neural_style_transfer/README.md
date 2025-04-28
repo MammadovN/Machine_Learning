@@ -1,4 +1,4 @@
-# 🎨 NeuralStyleTransfer-Colab: Artistic Style Transfer with PyTorch & VGG-19
+# 🎨 NeuralStyleTransfer: Artistic Style Transfer with PyTorch & VGG-19
 
 This project implements Neural Style Transfer in Google Colab using a pre-trained **VGG-19** network. It recreates a **content** image in the **style** of another image by optimising a generated image directly.
 
