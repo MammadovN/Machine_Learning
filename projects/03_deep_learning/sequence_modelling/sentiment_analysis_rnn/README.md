@@ -1,4 +1,4 @@
-# 📚 SentimentRNN: Text Sentiment Classification with Bidirectional LSTM (PyTorch)
+# 💬 SentimentRNN: Text Sentiment Classification with Bidirectional LSTM (PyTorch)
 
 This project trains a **Bidirectional LSTM-based RNN** to predict the **sentiment** (positive / negative) of short texts such as tweets, reviews, or comments.  
 The example workflow below uses the openly available **Sentiment140** dataset, fetched in one line with 🤗 *datasets*.
