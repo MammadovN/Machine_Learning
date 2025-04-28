@@ -17,17 +17,15 @@ The example workflow uses the openly available **Tiny Shakespeare** dataset.
 ---
 
 ## ▶️ How to Run the Project
-1. **Clone the repository**  
-   
-bash
+1. **Clone the repository**    
+   ```bash
    git clone https://github.com/your-username/Text_Generation_Shakespeare.git
    cd SentimentRNN
 2. **Install dependencies**
-bash
+   ```bash
    pip install -r requirements.txt
-3. **Run the training script**
-   
-bash
+3. **Run the training script**   
+   ```bash
    jupyter Text_Generation_Shakespeare.ipynb
 
 # 📂 Project Description
