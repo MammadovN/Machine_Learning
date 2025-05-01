@@ -20,8 +20,8 @@ This project trains custom Word2Vec and FastText embeddings on the NLTK Gutenber
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/wordembeddingcolab.git
-   cd wordembeddingcolab
+   git clone https://github.com/your-username/word_embedding.git
+   cd word_embedding
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
