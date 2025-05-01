@@ -59,8 +59,8 @@ Here are the main tools and technologies that I used throughout my projects:
 - **[Sentiment Analysis - Word Embedding](projects/03_deep_learning/word_embedding/README.md)**: Train custom Word2Vec and FastText embeddings on the NLTK Gutenberg corpus, evaluate them intrinsically via analogy & similarity queries and t-SNE visualization, then perform an extrinsic IMDb sentiment classification using mean-pooled embeddings and a logistic regression classifier.
 
 ### NLP
-- **[Chatbot - SEQ2SEQ](projects/04_natural_language_processing/chatbot/README.md)**: Chatbot development using Seq2Seq for context-aware responses.
-- **[Sentiment Analysis - BERT](projects/04_natural_language_processing/sentiment-analysis/README.md)**: Advanced sentiment analysis using BERT.
+- **[Seq2Seq Conversational Agent - Attention](projects/04_natural_language_processing/chatbot/README.md)**: A TensorFlow/Keras sequence-to-sequence conversational agent enhanced by an attention mechanism, trained end-to-end on paired question–answer data and demonstrating both training and inference pipelines with greedy decoding.
+- **[IMDB Review Sentiment Classifier - TF-IDF & DistilBERT](projects/04_natural_language_processing/sentiment-analysis/README.md)**: Predict positive vs. negative sentiment in IMDB movie reviews using a TF-IDF + Logistic Regression baseline and a fine-tuned DistilBERT model.
 - **[Text Summarization  - TRANSFORMER ](projects/04_natural_language_processing/text-summarization/README.md)**: Text summarization using Transformer models T5.
 
 ### Time-Series
