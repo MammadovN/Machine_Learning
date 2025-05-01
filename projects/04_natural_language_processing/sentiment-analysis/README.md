@@ -19,14 +19,14 @@ A Python project that implements both a TF-IDF + Logistic Regression baseline an
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/movie-review-sentiment.git
-   cd movie-review-sentiment
+   git clone https://github.com/your-username/movie-sentiment-analyzer.git
+   cd movie-sentiment-analyzer
 2. **Install requirements**
    ```bash
    pip install -r requirements.txt
 3. **Run the main script**
    ```bash
-   jupyter notebook movie sentiment analyzer.ipynb
+   jupyter notebook movie-sentiment-analyzer.ipynb
 
 ---
 
