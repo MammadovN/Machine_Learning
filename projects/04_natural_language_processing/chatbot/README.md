@@ -26,7 +26,7 @@ A TensorFlow / Keras implementation of a sequence-to-sequence chatbot with an at
 
 3. **Run the Python script or notebook**:  
    ```bash
-   jupyter notebook Seq2Seq Chatbot.ipynb
+   jupyter notebook seq2seq_chatbot.ipynb
 
 ---
 ## 📂 Project Description
