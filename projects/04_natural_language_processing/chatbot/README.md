@@ -18,15 +18,15 @@ A TensorFlow / Keras implementation of a sequence-to-sequence chatbot with an at
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/attention-seq2seq-chatbot.git
-   cd attention-seq2seq-chatbot
+   git clone https://github.com/your-username/seq2seq-chatbot.git
+   cd seq2seq-chatbot
 2. **Install Required Libraries**:   
    ```bash
    pip install -r requirements.txt
 
 3. **Run the Python script or notebook**:  
    ```bash
-   jupyter notebook seq2seq_chatbot.ipynb
+   jupyter notebook seq2seq-chatbot.ipynb
 
 ---
 ## 📂 Project Description
