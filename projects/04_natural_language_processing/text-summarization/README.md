@@ -19,14 +19,14 @@ An end-to-end NLP project implementing abstractive text summarization on the CNN
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/movie-sentiment-analyzer.git
-   cd movie-sentiment-analyzer
+   git clone https://github.com/your-username/text-summarization.git
+   cd text-summarization
 2. **Install requirements**
    ```bash
    pip install -r requirements.txt
 3. **Run the main script**   
    ```bash
-   jupyter notebook movie-sentiment-analyzer.ipynb
+   jupyter notebook text-summarization.ipynb
 
 ---
 
