@@ -1,0 +1,4 @@
+# Ignore large or generated files
+data/
+models/
+.ipynb_checkpoints/
