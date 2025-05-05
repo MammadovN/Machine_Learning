@@ -18,7 +18,7 @@ In this project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/MammadovN/polynomical_curve_fitting.git
 2. **Install required libraries**:
    ```bash
    pip install -r requirements.txt
