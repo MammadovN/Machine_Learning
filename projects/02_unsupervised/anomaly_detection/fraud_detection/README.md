@@ -17,7 +17,7 @@ This project focuses on detecting anomalies in data using multiple anomaly detec
 1. **Clone the Repository**:
 Clone the repository using the following command:
     ```bash
-    git clone https://github.com/your-username/anomaly-detection.git
+    git clone https://github.com/MammadovN/anomaly-detection.git
     cd anomaly-detection
  
 2. **Install Required Libraries**:
