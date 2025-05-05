@@ -18,7 +18,7 @@ This project showcases how to use a **deep autoencoder** in TensorFlow/Keras to 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ecg-autoencoder-anomaly-detection.git
+   git clone https://github.com/MammadovN/ecg-autoencoder-anomaly-detection.git
    cd ecg-autoencoder-anomaly-detection
    ```
 
