@@ -19,7 +19,7 @@ This project fine-tunes a pretrained **ResNet50** model on the **CIFAR-10** imag
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/transfer_learning_classification.git  
+   git clone https://github.com/MammadovN/transfer_learning_classification.git  
    cd transfer_learning_classification/projects/03_deep_learning/transfer_learning/transfer_learning_classification
 2. **Install dependencies**
    ```bash
