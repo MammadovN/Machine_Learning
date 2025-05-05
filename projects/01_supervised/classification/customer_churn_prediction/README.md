@@ -14,7 +14,7 @@ This project focuses on predicting customer churn for a telecommunications compa
 
 1. **Clone the Repository**: Clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/MammadovN/your-repository-name.git
 
 2. **Install Required Libraries**: Install all the required Python libraries using:
    ```bash
