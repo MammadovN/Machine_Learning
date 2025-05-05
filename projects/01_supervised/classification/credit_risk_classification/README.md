@@ -18,7 +18,7 @@ This project involves building a machine learning model to predict whether a per
 ### 1. Clone the Repository
 **Clone the repository using the following command**:
     ```bash
-    git clone https://github.com/your-username/german-credit-risk-classification.git
+    git clone https://github.com/MammadovN/german-credit-risk-classification.git
     cd german-credit-risk-classification
 ### 2. Install Required Libraries
 **Install all the required Python libraries using**:
