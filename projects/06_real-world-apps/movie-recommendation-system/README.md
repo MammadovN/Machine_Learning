@@ -37,7 +37,7 @@ A simple movie recommendation system built with TensorFlow Recommenders (TFRS) o
 
 ## Dataset
     ```bash
-Download and unzip the MovieLens dataset:
+    Download and unzip the MovieLens dataset:
     wget https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
     unzip ml-latest-small.zip
     Ensure `ratings.csv` and `movies.csv` are in your project root.
