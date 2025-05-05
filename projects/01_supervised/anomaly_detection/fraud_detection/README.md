@@ -17,7 +17,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 1. **Clone the Repository**: Clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/MammadovN/credit-card-fraud-detection.git
 2. **Install Required Libraries**: Install all the required Python libraries using:
    ```bash
    pip install -r requirements.txt
