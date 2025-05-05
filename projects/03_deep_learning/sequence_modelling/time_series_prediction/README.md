@@ -20,7 +20,7 @@ This project trains an **LSTM-based RNN** to forecast future **daily minimum tem
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/temp_forecast_lstm.git
+   git clone https://github.com/MammadovN/temp_forecast_lstm.git
    cd TempForecastLSTM
 2. **Install dependencies**
    ```bash
