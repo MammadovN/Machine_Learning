@@ -19,7 +19,7 @@ An end-to-end NLP project implementing abstractive text summarization on the CNN
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/text-summarization.git
+   git clone https://github.com/MammadovN/text-summarization.git
    cd text-summarization
 2. **Install requirements**
    ```bash
