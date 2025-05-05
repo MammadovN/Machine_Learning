@@ -35,7 +35,7 @@ The dataset is loaded from `tensorflow.keras.datasets.fashion_mnist`.
 ### 1. Clone the Repository
 1. **Clone the repository using the following command**:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/MammadovN/image_classification.git
 
 ### 2. Install Required Libraries
 2. **Install all the required Python libraries using**:
