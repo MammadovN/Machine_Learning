@@ -1,0 +1,4 @@
+tensorflow>=2.11.0
+tensorflow-recommenders>=0.7.0
+pandas>=1.4.0
+numpy>=1.22.0
