@@ -18,7 +18,7 @@ This project demonstrates how to build a **Denoising Autoencoder** using TensorF
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/denoising-autoencoder.git
+   git clone https://github.com/MammadovN/denoising-autoencoder.git
    cd denoising-autoencoder
 2. **Install Required Libraries**:
    ```bash
