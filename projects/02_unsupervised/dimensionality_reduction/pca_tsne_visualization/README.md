@@ -15,7 +15,7 @@ This project focuses on using **Principal Component Analysis (PCA)** and **t-Dis
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/pca-tsne-visualization.git
+    git clone https://github.com/MammadovN/pca-tsne-visualization.git
     cd pca-tsne-visualization
 2. **Install Required Libraries**:
     ```bash
