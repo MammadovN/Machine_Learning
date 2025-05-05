@@ -17,7 +17,7 @@ This project focuses on using **K-Means**, **Hierarchical Clustering**, and **DB
 1. **Clone the repository**:
 Clone the repository using the following command:
     ```bash
-    git clone https://github.com/your-username/customer-segmentation.git
+    git clone https://github.com/MammadovN/customer-segmentation.git
     cd customer-segmentation
 
 
