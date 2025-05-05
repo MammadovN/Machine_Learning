@@ -24,7 +24,6 @@ A simple movie recommendation system built with TensorFlow Recommenders (TFRS) o
 ---
 
 ## Installation
-    ```bash
 # (Optional) create and activate a virtual environment
     python -m venv venv
     source venv/bin/activate   # macOS/Linux
