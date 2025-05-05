@@ -24,9 +24,8 @@ A simple movie recommendation system built with TensorFlow Recommenders (TFRS) o
 ---
 
 ## Installation
-
-# (Optional) create and activate a virtual environment
     ```bash
+# (Optional) create and activate a virtual environment
     python -m venv venv
     source venv/bin/activate   # macOS/Linux
     venv\Scripts\activate      # Windows
@@ -37,10 +36,8 @@ A simple movie recommendation system built with TensorFlow Recommenders (TFRS) o
 ---
 
 ## Dataset
-
-Download and unzip the MovieLens dataset:
-
     ```bash
+Download and unzip the MovieLens dataset:
     wget https://files.grouplens.org/datasets/movielens/ml-latest-small.zip
     unzip ml-latest-small.zip
     Ensure `ratings.csv` and `movies.csv` are in your project root.
