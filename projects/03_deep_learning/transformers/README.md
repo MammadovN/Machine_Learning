@@ -19,7 +19,7 @@ This project implements a simple Transformer encoder from scratch and fine-tunes
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/transformer_imdb_classification.git
+   git clone https://github.com/MammadovN/transformer_imdb_classification.git
    cd transformer_imdb_classification
 2. **Install dependencies**
    ```bash
