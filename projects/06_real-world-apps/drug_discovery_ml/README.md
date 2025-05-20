@@ -39,7 +39,7 @@ drive.mount('/content/drive')
 # Clean up conflicting installations
 !pip uninstall -y keras tensorflow keras-nightly keras-preprocessing
 !pip install --upgrade "jax[cpu]" jaxlib
-
+```
 ---
 
 ## ▶️ Running the Scripts
@@ -47,14 +47,17 @@ drive.mount('/content/drive')
 Make sure your working directory is in **Google Colab** and your `src/` folder is located under **Google Drive**.
 
 ### 1. Data Preparation
-```bash
-python /content/drive/MyDrive/drug_discovery_ml/src/data_prep.py
+    ```bash
+    python /content/drive/MyDrive/drug_discovery_ml/src/data_prep.py
 ### 2. Analyze Molecular Descriptors
-python /content/drive/MyDrive/drug_discovery_ml/src/molecule_analysis.py
+    ```bash
+    python /content/drive/MyDrive/drug_discovery_ml/src/molecule_analysis.py
 ### 3. Train Random Forest Baseline
-python /content/drive/MyDrive/drug_discovery_ml/src/train_baseline.py
+    ```bash
+    python /content/drive/MyDrive/drug_discovery_ml/src/train_baseline.py
 ### 4. Train Deep Learning Model
-python /content/drive/MyDrive/drug_discovery_ml/src/deep_model.py
+    ```bash
+    python /content/drive/MyDrive/drug_discovery_ml/src/deep_model.py
 
 ---
 
