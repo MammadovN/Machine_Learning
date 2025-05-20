@@ -6,16 +6,18 @@ This project demonstrates a basic machine learning pipeline for molecular proper
 
 ## 📁 Project Structure
 
+```
 drug_discovery_ml/
 ├── src/
-│ ├── data_prep.py # Load and preprocess the Tox21 dataset
-│ ├── train_baseline.py # Train a Random Forest baseline model
-│ ├── molecule_analysis.py # Extract RDKit molecular descriptors
-│ └── deep_model.py # Train a deep learning model with TensorFlow
+│   ├── data_prep.py             # Load and preprocess the Tox21 dataset
+│   ├── train_baseline.py        # Train a Random Forest baseline model
+│   ├── molecule_analysis.py     # Extract RDKit molecular descriptors
+│   └── deep_model.py            # Train a deep learning model with TensorFlow
 ├── results/
-│ ├── sr_hse_rf.csv # Validation results from the RF model
-│ ├── sr_hse_deep.csv # Validation results from the deep model
-│ └── tox21_descriptors.csv # Molecular descriptors dataset
+│   ├── sr_hse_rf.csv            # Validation results from the RF model
+│   ├── sr_hse_deep.csv          # Validation results from the deep model
+│   └── tox21_descriptors.csv    # Molecular descriptors dataset
+```
 
 ---
 
