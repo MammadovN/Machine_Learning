@@ -95,7 +95,8 @@ disease_prediction_gene_expression/
     kagglehub.dataset_download('raghadalharbi/breast-cancer-gene-expression-profiles-metabric')
 
 3. **Install Dependencies:**
-    ```python pip install lifelines xgboost
+    ```python
+    pip install lifelines xgboost
 
 4. **Run Colab Notebooks in notebooks/ Folder**
 
