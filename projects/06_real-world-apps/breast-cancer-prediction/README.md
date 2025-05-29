@@ -89,15 +89,15 @@ disease_prediction_gene_expression/
     from google.colab import drive
     drive.mount('/content/drive')
 
-2.. **Download Dataset:**
+2. **Download Dataset:**
     ```python
     import kagglehub
     kagglehub.dataset_download('raghadalharbi/breast-cancer-gene-expression-profiles-metabric')
 
-3.**Install Dependencies:**
+3. **Install Dependencies:**
     ```python pip install lifelines xgboost
 
-4.**Run Colab Notebooks in notebooks/ Folder**
+4. **Run Colab Notebooks in notebooks/ Folder**
 
 ---
 
