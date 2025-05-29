@@ -69,6 +69,8 @@ Here are the main tools and technologies that I used throughout my projects:
 ### Real World Applications
 - **[Movie Recommendation System](projects/06_real-world-apps/movie-recommendation-system/README.md)**: Building a recommendation system for movies.
 - **[Taxi Trip Duration Prediction](projects/06_real-world-apps/taxi-trip-duration-prediction/README.md)**: Predicting taxi trip durations based on historical data.
+- **[Drug Discovery Prediction](projects/06_real-world-apps/drug_discovery_ml/README.md)**: A machine learning pipeline for predicting molecular toxicity using classical and deep learning models on the Tox21 dataset.
+- **[Breast Cancer Prediction](projects/06_real-world-apps/breast-cancer-prediction/README.md)**: A machine learning and survival analysis pipeline for predicting breast cancer outcomes using gene expression and clinical data.
 
 ## Installation Instructions
 
